@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540463391 source:d:\work\ds\线性结构\栈\array_stack\array_stack.c
+	<stdio.h>
+	<malloc.h>
+

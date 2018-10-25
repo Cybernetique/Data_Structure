@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1540472610 source:d:\work\ds\树形结构\哈夫曼树\huffman\huffman_test.c
+	<stdio.h>
+	"huffman.h"
+
+1540472517 d:\work\ds\树形结构\哈夫曼树\huffman\huffman.h
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1540474719 source:d:\work\ds\Í¼\ÍØÆËÅÅĞò\list_dg\list_dg.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<assert.h>
+

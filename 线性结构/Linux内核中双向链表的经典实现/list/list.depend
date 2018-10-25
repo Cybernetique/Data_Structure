@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1540462980 source:d:\work\ds\线性结构\linux内核中双向链表的经典实现\list\list.h
+
+1540463038 source:d:\work\ds\线性结构\linux内核中双向链表的经典实现\list\test.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"list.h"
+
+1540462980 d:\work\ds\线性结构\linux内核中双向链表的经典实现\list\list.h
+

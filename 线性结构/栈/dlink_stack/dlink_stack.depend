@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1540470207 source:d:\work\ds\线性结构\栈\dlink_stack\dlink_stack.c
+	<stdio.h>
+	"double_link.h"
+
+1540470262 d:\work\ds\线性结构\栈\dlink_stack\double_link.h
+

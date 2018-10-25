@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1540470940 source:d:\work\ds\树形结构\二叉查找树\bstree\btree_test.c
+	<stdio.h>
+	"bstree.h"
+
+1540470919 d:\work\ds\树形结构\二叉查找树\bstree\bstree.h
+

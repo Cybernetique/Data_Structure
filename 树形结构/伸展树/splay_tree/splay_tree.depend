@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1540471173 source:d:\work\ds\树形结构\伸展树\splay_tree\splaytree_test.c
+	<stdio.h>
+	"splay_tree.h"
+
+1540471155 d:\work\ds\树形结构\伸展树\splay_tree\splay_tree.h
+

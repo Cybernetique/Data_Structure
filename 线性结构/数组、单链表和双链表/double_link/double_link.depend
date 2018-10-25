@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1540462606 source:d:\work\ds\double_link\dlink_test.c
+	<stdio.h>
+	"double_link.h"
+
+1540462574 d:\work\ds\double_link\double_link.h
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1540473510 source:d:\work\ds\堆\二项堆\binomial_heap\main.c
+	<stdio.h>
+	"binomial_heap.h"
+
+1540473477 d:\work\ds\堆\二项堆\binomial_heap\binomial_heap.h
+
